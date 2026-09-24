@@ -1,0 +1,6 @@
+customtkinter>=5.2
+pillow>=10.0
+psutil>=5.9
+watchdog>=4.0
+palworld-save-tools>=0.24
+pyooz

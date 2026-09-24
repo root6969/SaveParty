@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+!SaveParty.spec
+*.egg-info/
+.venv/
+venv/
+_updtest/
